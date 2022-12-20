@@ -1,4 +1,4 @@
-# prompt_gen_skript
+# Simple prompt generator
 A simple writing-prompt generator, which uses wordlists. Examples are in german, but it works with english (and probably a lot of other languages) too. The program will output 100 prompts by selecting random words in 'nomen.txt', 'between.txt', 'nomen2.txt'. This script is not a programming masterpiece, but it works for me and might as well for others. By using larger wordlists from the internet, the prompts become rather inspiring. You can modify the code in 'prompt-script.py' to fit your needs.
 
 To use the program type either:
